@@ -24,48 +24,6 @@ Building scalable web applications and AI-powered solutions that solve real-worl
 
 I'm an MCA student and Full Stack Developer passionate about building modern web applications and AI-powered solutions. I specialize in the MERN Stack while continuously exploring Artificial Intelligence, Machine Learning, and scalable backend systems.
 
-```javascript
-const janak = {
-  frontend: [
-    "⚛️ React.js",
-    "🎨 Tailwind CSS",
-    "📱 Responsive Design"
-  ],
-
-  backend: [
-    "🟢 Node.js",
-    "🚀 Express.js",
-    "⚡ FastAPI",
-    "🔐 JWT Authentication"
-  ],
-
-  database: [
-    "🍃 MongoDB",
-    "🔥 Firebase"
-  ],
-
-  ai_ml: [
-    "🤖 Python",
-    "🧠 Machine Learning",
-    "📊 Data Analytics",
-    "⚡ Generative AI"
-  ],
-
-  tools: [
-    "Git",
-    "Docker",
-    "Postman",
-    "VS Code"
-  ],
-
-  currently: "Building scalable Full Stack & AI-powered applications 🚀"
-};
-```
-
-> *"Turning ideas into impactful digital experiences through clean code and intelligent solutions."*
-
----
-
 # 🛠 Tech Stack
 
 ### 💻 Languages
@@ -168,13 +126,6 @@ An interactive Power BI dashboard providing insights into social media engagemen
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janakgadhiya&theme=tokyo-night"/>
-</p>
-
----
 
 # 🤝 Open To
 
